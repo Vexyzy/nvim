@@ -15,5 +15,5 @@ Docstring for neovim (<Leader>d).
 
 ## My bindings
 
-1. <leader> c i – ignore line by pyright
-2. <leader> i — get more information about mistake 
+1. leader c i – ignore line by pyright
+2. leader i — get more information about mistake 
